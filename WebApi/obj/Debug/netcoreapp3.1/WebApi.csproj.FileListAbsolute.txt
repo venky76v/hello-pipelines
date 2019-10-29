@@ -1,0 +1,17 @@
+C:\Users\vvenkata\Source\Repos\hello-pipelines\WebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vvenkata\Source\Repos\hello-pipelines\WebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vvenkata\Source\Repos\hello-pipelines\WebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\vvenkata\Source\Repos\hello-pipelines\WebApi\bin\Debug\netcoreapp3.1\WebApi.exe
+C:\Users\vvenkata\Source\Repos\hello-pipelines\WebApi\bin\Debug\netcoreapp3.1\WebApi.deps.json
+C:\Users\vvenkata\Source\Repos\hello-pipelines\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.json
+C:\Users\vvenkata\Source\Repos\hello-pipelines\WebApi\bin\Debug\netcoreapp3.1\WebApi.runtimeconfig.dev.json
+C:\Users\vvenkata\Source\Repos\hello-pipelines\WebApi\bin\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\vvenkata\Source\Repos\hello-pipelines\WebApi\bin\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\vvenkata\Source\Repos\hello-pipelines\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\Users\vvenkata\Source\Repos\hello-pipelines\WebApi\obj\Debug\netcoreapp3.1\staticwebassets\WebApi.StaticWebAssets.xml
+C:\Users\vvenkata\Source\Repos\hello-pipelines\WebApi\obj\Debug\netcoreapp3.1\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vvenkata\Source\Repos\hello-pipelines\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfoInputs.cache
+C:\Users\vvenkata\Source\Repos\hello-pipelines\WebApi\obj\Debug\netcoreapp3.1\WebApi.AssemblyInfo.cs
+C:\Users\vvenkata\Source\Repos\hello-pipelines\WebApi\obj\Debug\netcoreapp3.1\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\vvenkata\Source\Repos\hello-pipelines\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\vvenkata\Source\Repos\hello-pipelines\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
