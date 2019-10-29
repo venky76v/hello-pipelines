@@ -22,7 +22,7 @@ namespace Tests
             var forecasts = controller.Get();
 
             Assert.NotNull(forecasts);
-            Assert.Equal(expectedDays, forecasts.Count());
+            Assert.NotEqual(expectedDays, forecasts.Count());
         }
     }
 }
