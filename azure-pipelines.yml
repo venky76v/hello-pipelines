@@ -19,12 +19,7 @@ steps:
 - task: DotNetCoreCLI@2
   inputs:
     command: 'build'
-    projects: '/WebApi/*.csproj'
-
-- task: DotNetCoreCLI@2
-  inputs:
-    command: 'build'
-    projects: '/Tests/*.csproj'
+    projects: '**/*.csproj'
 
 - task: DotNetCoreCLI@2
   inputs:
