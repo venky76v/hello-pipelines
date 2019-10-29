@@ -12,9 +12,19 @@ pool:
 container: mcr.microsoft.com/dotnet/core/sdk:3.1
 
 steps:
+#- task: DotNetCoreCLI@2
+#  inputs:
+#    command: build
+
 - task: DotNetCoreCLI@2
   inputs:
-    command: build
+    command: 'build'
+    projects: '/WebApi/*.csproj'
+
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'build'
+    projects: '/Tests/*.csproj'
 
 - task: DotNetCoreCLI@2
   inputs:
